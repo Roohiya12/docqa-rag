@@ -1,0 +1,41 @@
+SOLSTICE ROBOTICS, INC. - ANNUAL REPORT, FISCAL YEAR 2025
+(Solstice Robotics is a fictional company. This document is synthetic sample data created for the DocQA RAG demo.)
+
+1. EXECUTIVE SUMMARY
+Fiscal year 2025 was a defining year for Solstice Robotics. Total revenue reached $482 million, an increase of 18% over the $408 million recorded in fiscal year 2024. Net income rose to $61 million, compared with $37 million in the prior year. The company shipped a record 14,200 robots during the year. Chief Executive Officer Marguerite Okafor said the results prove that the company's shift toward subscription services is working. Management expects continued growth in fiscal year 2026, supported by a backlog of $310 million in confirmed orders.
+
+2. COMPANY OVERVIEW AND HISTORY
+Solstice Robotics was founded in 2011 by Marguerite Okafor and Tobias Lindqvist in a converted warehouse in Rotterdam, the Netherlands. The company moved its headquarters to Austin, Texas in 2016 to be closer to its largest customers and to a deeper pool of engineering talent. Solstice listed on the NASDAQ exchange in March 2019 at an initial price of $24 per share. Today the company employs 3,850 people across eleven offices and three factories. Its mission is to build robots that work safely alongside people in warehouses, farms, and hospitals.
+
+3. FINANCIAL PERFORMANCE
+Gross margin improved to 46.5% in fiscal year 2025 from 43.2% in fiscal year 2024, driven mainly by lower component costs and a richer software mix. Operating expenses totaled $168 million. Research and development accounted for $92 million of that figure, while sales and marketing accounted for $51 million and general and administrative costs for $25 million. Operating income reached $56 million. The company ended the year with $214 million in cash and short-term investments and $75 million of long-term debt. Free cash flow was $43 million, the first time it has exceeded $40 million. Capital expenditures were $38 million, mostly for the new factory in Monterrey, Mexico.
+
+4. PRODUCT LINES
+Solstice sells three product families. SentryArm is a collaborative robotic arm for assembly and packaging, and it accounted for 52% of hardware revenue in fiscal year 2025. PathFinder-X is an autonomous mobile robot that moves pallets in warehouses and distribution centers, and its sales grew 31% year over year. HarvestBot is an agricultural robot that picks strawberries and tomatoes using computer vision. HarvestBot launched commercially in April 2025 and was running on 64 farms by the end of the year. All three products are managed through the Solstice Cloud platform.
+
+5. SUBSCRIPTION AND SOFTWARE SERVICES
+Solstice Cloud is the company's fleet management subscription. Annual recurring revenue from Solstice Cloud reached $97 million at year end, up from $58 million a year earlier. Net revenue retention was 124%, meaning existing customers spent 24% more than they did the year before. The average subscription contract runs for 36 months. Subscriptions now represent 20% of total company revenue, compared with 14% in fiscal year 2024.
+
+6. MARKET ANALYSIS
+Analysts estimate that the global market for collaborative and mobile robots was worth $12.4 billion in 2025 and is growing at 22% per year. Solstice holds an estimated 3.9% share of that market. Warehouse automation is the largest segment, making up 41% of total market demand. Agricultural robotics is the smallest segment but the fastest growing, expanding at 35% per year. The main competitors are Voltaire Automation of Germany, Kuroshio Dynamics of Japan, and Atlas Meridian of the United States. Solstice competes mainly on safety certifications and software integration rather than on price.
+
+7. RESEARCH AND DEVELOPMENT
+Research and development spending was $92 million, equal to 19% of revenue. The engineering organization has 410 engineers. Solstice filed 57 new patents during the year, bringing its total portfolio to 312 patents. The Eindhoven laboratory focuses on grippers and actuators, while the Austin laboratory focuses on perception software. A new sensor called TactileSkin reduces collision force by 60%. The company also runs a joint research program on safe human-robot interaction with the Brandt Institute of Technology.
+
+8. MANUFACTURING AND SUPPLY CHAIN
+Solstice operates three factories. The Rotterdam factory opened in 2012 and the Austin factory opened in 2017. The Monterrey factory began production in September 2025 and has an annual capacity of 5,000 units. About 70% of components are now dual sourced. The lead time for motors fell from 22 weeks to 9 weeks after the company qualified a second supplier. The main remaining supply risk is a single source for custom lidar chips, which are made by one supplier in Taiwan. On-time delivery to customers was 94% for the year.
+
+9. PEOPLE AND CULTURE
+The company employs 3,850 people. Women hold 31% of engineering roles, up from 26% in fiscal year 2024. Voluntary attrition was 9.4%, well below the industry average of 15%. Solstice spends $2,400 per employee each year on training. The hybrid work policy requires employees to be in the office three days per week. The annual engagement survey produced a score of 82 out of 100.
+
+10. SUSTAINABILITY
+Solstice reduced its Scope 1 and Scope 2 greenhouse gas emissions by 28% compared with its 2022 baseline. The Rotterdam and Austin factories ran on 100% renewable electricity in 2025. The company has committed to reaching net zero emissions by 2040. A take-back program recycled 3,100 end-of-life robots during the year. A closed-loop cooling system at the Monterrey factory saves about 12 million liters of water annually.
+
+11. RISK FACTORS
+The five largest customers account for 34% of revenue, and the single largest customer accounts for 11%. Tariffs and trade restrictions could raise component costs. About 38% of revenue is denominated in euros, so a weaker euro would reduce reported results. New entrants offering lower-priced robots are a growing competitive threat. Solstice must comply with the new European Union Machinery Regulation by January 2027, which will require recertification of existing products.
+
+12. OUTLOOK FOR FISCAL YEAR 2026
+For fiscal year 2026, management expects revenue between $560 million and $590 million. Gross margin is expected to be between 47% and 48%. Capital expenditures are planned at $45 million. The company will launch SentryArm 3 in the second quarter of 2026 and plans to expand HarvestBot to 150 farms. Solstice intends to hire 400 new employees. The board has authorized a $60 million share buyback program.
+
+13. LEADERSHIP AND GOVERNANCE
+Marguerite Okafor serves as Chief Executive Officer. Daniel Reyes is the Chief Financial Officer, Tobias Lindqvist is the Chief Technology Officer, and Priya Raman is the Chief Operating Officer. The board has nine directors, six of whom are independent, and it is chaired by Helena Voss. The audit committee meets four times a year. The external auditor is Hargreave & Quill LLP.

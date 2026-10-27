@@ -1,0 +1,338 @@
+[
+  {
+    "id": "q001",
+    "question": "What was Solstice's total revenue in fiscal year 2025?",
+    "answer": "$482 million",
+    "source_snippet": "Total revenue reached $482 million",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q002",
+    "question": "According to Solstice's report, how many robots did the company ship during the year?",
+    "answer": "14,200 robots",
+    "source_snippet": "shipped a record 14,200 robots",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q003",
+    "question": "According to Solstice's report, how large is the company's order backlog?",
+    "answer": "$310 million",
+    "source_snippet": "a backlog of $310 million in confirmed orders",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q004",
+    "question": "According to Solstice's report, where was the company originally founded?",
+    "answer": "Rotterdam, the Netherlands",
+    "source_snippet": "in a converted warehouse in Rotterdam, the Netherlands",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q005",
+    "question": "When did Solstice go public and at what price?",
+    "answer": "March 2019 at $24 per share",
+    "source_snippet": "listed on the NASDAQ exchange in March 2019 at an initial price of $24 per share",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q006",
+    "question": "Why did Solstice relocate its headquarters to Texas?",
+    "answer": "To be closer to its largest customers and a deeper pool of engineering talent",
+    "source_snippet": "to be closer to its largest customers and to a deeper pool of engineering talent",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q007",
+    "question": "According to Solstice's report, what drove the gross margin improvement?",
+    "answer": "Lower component costs and a richer software mix",
+    "source_snippet": "driven mainly by lower component costs and a richer software mix",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q008",
+    "question": "According to Solstice's report, how much cash did the company hold at the end of the year?",
+    "answer": "$214 million in cash and short-term investments",
+    "source_snippet": "ended the year with $214 million in cash and short-term investments",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q009",
+    "question": "How much long-term debt does Solstice carry?",
+    "answer": "$75 million",
+    "source_snippet": "$75 million of long-term debt",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q010",
+    "question": "According to Solstice's report, what was free cash flow for the year?",
+    "answer": "$43 million",
+    "source_snippet": "Free cash flow was $43 million",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q011",
+    "question": "According to Solstice's report, what was most of the capital spending used for?",
+    "answer": "The new factory in Monterrey, Mexico",
+    "source_snippet": "mostly for the new factory in Monterrey, Mexico",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q012",
+    "question": "According to Solstice's report, which product harvests fruit using computer vision?",
+    "answer": "HarvestBot",
+    "source_snippet": "picks strawberries and tomatoes using computer vision",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q013",
+    "question": "What share of hardware revenue came from SentryArm?",
+    "answer": "52%",
+    "source_snippet": "it accounted for 52% of hardware revenue in fiscal year 2025",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q014",
+    "question": "How quickly did PathFinder-X sales grow?",
+    "answer": "31% year over year",
+    "source_snippet": "its sales grew 31% year over year",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q015",
+    "question": "How many farms were using HarvestBot at year end?",
+    "answer": "64 farms",
+    "source_snippet": "was running on 64 farms by the end of the year",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q016",
+    "question": "According to Solstice's report, what is the annual recurring revenue from the fleet management subscription?",
+    "answer": "$97 million",
+    "source_snippet": "Annual recurring revenue from Solstice Cloud reached $97 million at year end",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q017",
+    "question": "According to Solstice's report, what is the net revenue retention rate?",
+    "answer": "124%",
+    "source_snippet": "Net revenue retention was 124%",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q018",
+    "question": "According to Solstice's report, how long is the typical subscription contract?",
+    "answer": "36 months",
+    "source_snippet": "The average subscription contract runs for 36 months",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q019",
+    "question": "According to Solstice's report, how big is the global collaborative and mobile robot market?",
+    "answer": "$12.4 billion",
+    "source_snippet": "was worth $12.4 billion in 2025",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q020",
+    "question": "According to Solstice's report, which market segment is growing the fastest?",
+    "answer": "Agricultural robotics",
+    "source_snippet": "Agricultural robotics is the smallest segment but the fastest growing",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q021",
+    "question": "Who are Solstice's main rivals?",
+    "answer": "Voltaire Automation, Kuroshio Dynamics, and Atlas Meridian",
+    "source_snippet": "Voltaire Automation of Germany, Kuroshio Dynamics of Japan, and Atlas Meridian of the United States",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q022",
+    "question": "According to Solstice's report, how many patents does the company hold in total?",
+    "answer": "312",
+    "source_snippet": "bringing its total portfolio to 312 patents",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q023",
+    "question": "What does the TactileSkin sensor do?",
+    "answer": "Reduces collision force by 60%",
+    "source_snippet": "reduces collision force by 60%",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q024",
+    "question": "According to Solstice's report, which laboratory works on perception software?",
+    "answer": "The Austin laboratory",
+    "source_snippet": "the Austin laboratory focuses on perception software",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q025",
+    "question": "When did the Monterrey factory start production and what is its capacity?",
+    "answer": "September 2025, 5,000 units per year",
+    "source_snippet": "The Monterrey factory began production in September 2025 and has an annual capacity of 5,000 units",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q026",
+    "question": "According to Solstice's report, how much did motor lead times improve?",
+    "answer": "From 22 weeks to 9 weeks",
+    "source_snippet": "The lead time for motors fell from 22 weeks to 9 weeks",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q027",
+    "question": "According to Solstice's report, what is the biggest remaining supply chain risk?",
+    "answer": "A single source for custom lidar chips",
+    "source_snippet": "The main remaining supply risk is a single source for custom lidar chips",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q028",
+    "question": "According to Solstice's report, what was the voluntary employee attrition rate?",
+    "answer": "9.4%",
+    "source_snippet": "Voluntary attrition was 9.4%",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q029",
+    "question": "According to Solstice's report, by what year does the company aim to reach net zero emissions?",
+    "answer": "2040",
+    "source_snippet": "committed to reaching net zero emissions by 2040",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q030",
+    "question": "How much water does the Monterrey cooling system save each year?",
+    "answer": "About 12 million liters",
+    "source_snippet": "saves about 12 million liters of water annually",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q031",
+    "question": "How dependent is Solstice on its biggest customers?",
+    "answer": "Top five customers are 34% of revenue",
+    "source_snippet": "The five largest customers account for 34% of revenue",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q032",
+    "question": "According to Solstice's report, which new EU rule must the company meet by 2027?",
+    "answer": "The European Union Machinery Regulation",
+    "source_snippet": "comply with the new European Union Machinery Regulation by January 2027",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q033",
+    "question": "According to Solstice's report, what revenue range does management expect for fiscal 2026?",
+    "answer": "$560 million to $590 million",
+    "source_snippet": "management expects revenue between $560 million and $590 million",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q034",
+    "question": "When will SentryArm 3 be launched?",
+    "answer": "The second quarter of 2026",
+    "source_snippet": "launch SentryArm 3 in the second quarter of 2026",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q035",
+    "question": "According to Solstice's report, how large is the authorized share buyback?",
+    "answer": "$60 million",
+    "source_snippet": "authorized a $60 million share buyback program",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q036",
+    "question": "According to Solstice's report, who chairs the board of directors?",
+    "answer": "Helena Voss",
+    "source_snippet": "it is chaired by Helena Voss",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q037",
+    "question": "According to Solstice's report, who is the Chief Financial Officer?",
+    "answer": "Daniel Reyes",
+    "source_snippet": "Daniel Reyes is the Chief Financial Officer",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q038",
+    "question": "According to Solstice's report, how many of the board's directors are independent?",
+    "answer": "Six of nine",
+    "source_snippet": "six of whom are independent",
+    "source_doc": "solstice_annual_report"
+  },
+  {
+    "id": "q039",
+    "question": "How many shipments did Harbourline Logistics handle in fiscal 2025?",
+    "answer": "38 million",
+    "source_snippet": "Harbourline handled 38 million shipments",
+    "source_doc": "harbourline_annual_report"
+  },
+  {
+    "id": "q040",
+    "question": "Who is Harbourline's Chief Financial Officer?",
+    "answer": "Anneliese Brandt",
+    "source_snippet": "Anneliese Brandt is the Chief Financial Officer",
+    "source_doc": "harbourline_annual_report"
+  },
+  {
+    "id": "q041",
+    "question": "What share of Harbourline's revenue comes from its ten largest customers?",
+    "answer": "41%",
+    "source_snippet": "The ten largest customers account for 41% of revenue",
+    "source_doc": "harbourline_annual_report"
+  },
+  {
+    "id": "q042",
+    "question": "How many electric trucks does Harbourline operate?",
+    "answer": "1,300",
+    "source_snippet": "Harbourline operates 1,300 electric trucks",
+    "source_doc": "harbourline_annual_report"
+  },
+  {
+    "id": "q043",
+    "question": "What is Harbourline's net zero target year?",
+    "answer": "2045",
+    "source_snippet": "committed to reaching net zero emissions by 2045",
+    "source_doc": "harbourline_annual_report"
+  },
+  {
+    "id": "q044",
+    "question": "How many licensed beds does Northfield General Hospital have?",
+    "answer": "420",
+    "source_snippet": "operates 420 licensed beds",
+    "source_doc": "northfield_hospital_report"
+  },
+  {
+    "id": "q045",
+    "question": "What was Northfield's 30-day readmission rate this year?",
+    "answer": "11.2%",
+    "source_snippet": "The 30-day readmission rate fell to 11.2%",
+    "source_doc": "northfield_hospital_report"
+  },
+  {
+    "id": "q046",
+    "question": "When does Northfield's new cardiac wing open?",
+    "answer": "March 2027",
+    "source_snippet": "which opens in March 2027 and will add 48 beds",
+    "source_doc": "northfield_hospital_report"
+  },
+  {
+    "id": "q047",
+    "question": "How much charity care and community programming did Northfield provide?",
+    "answer": "$17 million",
+    "source_snippet": "Northfield provided $17 million in charity care and community programs",
+    "source_doc": "northfield_hospital_report"
+  },
+  {
+    "id": "q048",
+    "question": "What was the median emergency department wait at Northfield?",
+    "answer": "38 minutes",
+    "source_snippet": "The median wait time in the emergency department was 38 minutes",
+    "source_doc": "northfield_hospital_report"
+  }
+]

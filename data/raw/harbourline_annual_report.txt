@@ -1,0 +1,26 @@
+HARBOURLINE LOGISTICS, INC. - ANNUAL REPORT, FISCAL YEAR 2025
+(Harbourline Logistics is a fictional company. This document is synthetic sample data created for the DocQA RAG demo.)
+
+1. EXECUTIVE SUMMARY
+Fiscal year 2025 was a year of steady execution for Harbourline Logistics. Total revenue was $1.26 billion, up 7% from $1.18 billion in fiscal year 2024. Net income was $74 million, compared with $69 million a year earlier. Harbourline handled 38 million shipments across its network. Chief Executive Officer Ingrid Halvorsen said disciplined cost control allowed the company to grow profit faster than revenue. The company ended the year with a contracted backlog of $2.1 billion.
+
+2. COMPANY OVERVIEW AND HISTORY
+Harbourline was founded in 1988 in Gdansk, Poland by Tomasz Wrona with a fleet of six trucks. The company moved its headquarters to Rotterdam, the Netherlands in 2004 to be closer to the port. Harbourline listed on the Amsterdam stock exchange in 2007 at an initial price of 14 euros per share. Today the company employs 21,400 people in 38 countries. Its mission is to move goods reliably and at a fair price.
+
+3. FINANCIAL PERFORMANCE
+Gross margin was 18.9% in fiscal year 2025 compared with 18.1% in fiscal year 2024, helped by better warehouse utilization. Operating expenses totaled $196 million. Operating income reached $112 million. The company held $305 million in cash at year end and carried $640 million of long-term debt. Free cash flow was $88 million. Capital expenditures were $142 million, mostly for new cross-dock terminals in Rotterdam and Savannah.
+
+4. SERVICES
+Ocean freight forwarding is the largest business and generated 46% of revenue. Contract warehousing grew 12% year over year as customers outsourced more fulfillment. Last-mile delivery launched in nine European cities during the year. Customs brokerage remained stable. Harbourline competes mainly on reliability and on the breadth of its port network rather than on software.
+
+5. FLEET AND SUSTAINABILITY
+Harbourline operates 1,300 electric trucks, up from 800 a year ago. Emissions from owned vehicles fell 19% compared with the 2020 baseline. The company has committed to reaching net zero emissions by 2045. Warehouses in Rotterdam and Hamburg now run on solar power and purchased renewable electricity. Old pallets are repaired and reused rather than discarded, which avoided 9,000 tonnes of waste.
+
+6. PEOPLE AND CULTURE
+The company employs 21,400 people. Voluntary attrition was 17.8%, which management called too high and is addressing through higher driver pay. Harbourline spends $900 per employee each year on training. Warehouse staff work in rotating shifts, while office staff follow a hybrid policy of two days in the office per week. The annual engagement survey produced a score of 74 out of 100.
+
+7. RISK FACTORS
+The ten largest customers account for 41% of revenue, and the single largest customer accounts for 9%. Fuel price swings can compress margins in ocean and road freight. About 52% of revenue is denominated in euros. Harbourline must comply with the expanded European Union Emissions Trading System by January 2026, which will raise shipping costs. Labor shortages among truck drivers remain a persistent concern.
+
+8. OUTLOOK AND GOVERNANCE
+For fiscal year 2026, management expects revenue between $1.30 billion and $1.34 billion. Capital expenditures are planned at $150 million. The board has authorized a $100 million share buyback program. The board has eleven directors, eight of whom are independent, and it is chaired by Lars Mikkelsen. Anneliese Brandt is the Chief Financial Officer. The external auditor is Corvane & Pike LLP.

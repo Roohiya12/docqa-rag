@@ -1,0 +1,20 @@
+# secrets
+.env
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+# generated vector indexes (rebuild with scripts/build_index.py)
+indexes/
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# user-uploaded PDFs may be private - sample docs are .txt
+data/raw/*.pdf
+
+# local Streamlit secrets (never commit)
+.streamlit/secrets.toml

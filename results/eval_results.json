@@ -1,0 +1,761 @@
+[
+  {
+    "strategy": "fixed_no_overlap",
+    "reranked": false,
+    "hit_rate_at_k": {
+      "1": 0.4166666666666667,
+      "3": 0.5833333333333334,
+      "5": 0.6458333333333334
+    },
+    "mrr": 0.5135416666666667,
+    "n_questions": 48,
+    "per_question": [
+      {
+        "id": "q001",
+        "question": "What was Solstice's total revenue in fiscal year 2025?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q002",
+        "question": "According to Solstice's report, how many robots did the company ship during the year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q003",
+        "question": "According to Solstice's report, how large is the company's order backlog?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q004",
+        "question": "According to Solstice's report, where was the company originally founded?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q005",
+        "question": "When did Solstice go public and at what price?",
+        "hit_rank": null
+      },
+      {
+        "id": "q006",
+        "question": "Why did Solstice relocate its headquarters to Texas?",
+        "hit_rank": null
+      },
+      {
+        "id": "q007",
+        "question": "According to Solstice's report, what drove the gross margin improvement?",
+        "hit_rank": null
+      },
+      {
+        "id": "q008",
+        "question": "According to Solstice's report, how much cash did the company hold at the end of the year?",
+        "hit_rank": null
+      },
+      {
+        "id": "q009",
+        "question": "How much long-term debt does Solstice carry?",
+        "hit_rank": null
+      },
+      {
+        "id": "q010",
+        "question": "According to Solstice's report, what was free cash flow for the year?",
+        "hit_rank": null
+      },
+      {
+        "id": "q011",
+        "question": "According to Solstice's report, what was most of the capital spending used for?",
+        "hit_rank": null
+      },
+      {
+        "id": "q012",
+        "question": "According to Solstice's report, which product harvests fruit using computer vision?",
+        "hit_rank": 4
+      },
+      {
+        "id": "q013",
+        "question": "What share of hardware revenue came from SentryArm?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q014",
+        "question": "How quickly did PathFinder-X sales grow?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q015",
+        "question": "How many farms were using HarvestBot at year end?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q016",
+        "question": "According to Solstice's report, what is the annual recurring revenue from the fleet management subscription?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q017",
+        "question": "According to Solstice's report, what is the net revenue retention rate?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q018",
+        "question": "According to Solstice's report, how long is the typical subscription contract?",
+        "hit_rank": null
+      },
+      {
+        "id": "q019",
+        "question": "According to Solstice's report, how big is the global collaborative and mobile robot market?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q020",
+        "question": "According to Solstice's report, which market segment is growing the fastest?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q021",
+        "question": "Who are Solstice's main rivals?",
+        "hit_rank": null
+      },
+      {
+        "id": "q022",
+        "question": "According to Solstice's report, how many patents does the company hold in total?",
+        "hit_rank": null
+      },
+      {
+        "id": "q023",
+        "question": "What does the TactileSkin sensor do?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q024",
+        "question": "According to Solstice's report, which laboratory works on perception software?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q025",
+        "question": "When did the Monterrey factory start production and what is its capacity?",
+        "hit_rank": null
+      },
+      {
+        "id": "q026",
+        "question": "According to Solstice's report, how much did motor lead times improve?",
+        "hit_rank": null
+      },
+      {
+        "id": "q027",
+        "question": "According to Solstice's report, what is the biggest remaining supply chain risk?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q028",
+        "question": "According to Solstice's report, what was the voluntary employee attrition rate?",
+        "hit_rank": null
+      },
+      {
+        "id": "q029",
+        "question": "According to Solstice's report, by what year does the company aim to reach net zero emissions?",
+        "hit_rank": null
+      },
+      {
+        "id": "q030",
+        "question": "How much water does the Monterrey cooling system save each year?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q031",
+        "question": "How dependent is Solstice on its biggest customers?",
+        "hit_rank": null
+      },
+      {
+        "id": "q032",
+        "question": "According to Solstice's report, which new EU rule must the company meet by 2027?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q033",
+        "question": "According to Solstice's report, what revenue range does management expect for fiscal 2026?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q034",
+        "question": "When will SentryArm 3 be launched?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q035",
+        "question": "According to Solstice's report, how large is the authorized share buyback?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q036",
+        "question": "According to Solstice's report, who chairs the board of directors?",
+        "hit_rank": 5
+      },
+      {
+        "id": "q037",
+        "question": "According to Solstice's report, who is the Chief Financial Officer?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q038",
+        "question": "According to Solstice's report, how many of the board's directors are independent?",
+        "hit_rank": 5
+      },
+      {
+        "id": "q039",
+        "question": "How many shipments did Harbourline Logistics handle in fiscal 2025?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q040",
+        "question": "Who is Harbourline's Chief Financial Officer?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q041",
+        "question": "What share of Harbourline's revenue comes from its ten largest customers?",
+        "hit_rank": null
+      },
+      {
+        "id": "q042",
+        "question": "How many electric trucks does Harbourline operate?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q043",
+        "question": "What is Harbourline's net zero target year?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q044",
+        "question": "How many licensed beds does Northfield General Hospital have?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q045",
+        "question": "What was Northfield's 30-day readmission rate this year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q046",
+        "question": "When does Northfield's new cardiac wing open?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q047",
+        "question": "How much charity care and community programming did Northfield provide?",
+        "hit_rank": null
+      },
+      {
+        "id": "q048",
+        "question": "What was the median emergency department wait at Northfield?",
+        "hit_rank": 1
+      }
+    ]
+  },
+  {
+    "strategy": "fixed_overlap",
+    "reranked": false,
+    "hit_rate_at_k": {
+      "1": 0.625,
+      "3": 0.7708333333333334,
+      "5": 0.8125
+    },
+    "mrr": 0.6944444444444445,
+    "n_questions": 48,
+    "per_question": [
+      {
+        "id": "q001",
+        "question": "What was Solstice's total revenue in fiscal year 2025?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q002",
+        "question": "According to Solstice's report, how many robots did the company ship during the year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q003",
+        "question": "According to Solstice's report, how large is the company's order backlog?",
+        "hit_rank": 3
+      },
+      {
+        "id": "q004",
+        "question": "According to Solstice's report, where was the company originally founded?",
+        "hit_rank": 4
+      },
+      {
+        "id": "q005",
+        "question": "When did Solstice go public and at what price?",
+        "hit_rank": 4
+      },
+      {
+        "id": "q006",
+        "question": "Why did Solstice relocate its headquarters to Texas?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q007",
+        "question": "According to Solstice's report, what drove the gross margin improvement?",
+        "hit_rank": null
+      },
+      {
+        "id": "q008",
+        "question": "According to Solstice's report, how much cash did the company hold at the end of the year?",
+        "hit_rank": null
+      },
+      {
+        "id": "q009",
+        "question": "How much long-term debt does Solstice carry?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q010",
+        "question": "According to Solstice's report, what was free cash flow for the year?",
+        "hit_rank": null
+      },
+      {
+        "id": "q011",
+        "question": "According to Solstice's report, what was most of the capital spending used for?",
+        "hit_rank": null
+      },
+      {
+        "id": "q012",
+        "question": "According to Solstice's report, which product harvests fruit using computer vision?",
+        "hit_rank": 3
+      },
+      {
+        "id": "q013",
+        "question": "What share of hardware revenue came from SentryArm?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q014",
+        "question": "How quickly did PathFinder-X sales grow?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q015",
+        "question": "How many farms were using HarvestBot at year end?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q016",
+        "question": "According to Solstice's report, what is the annual recurring revenue from the fleet management subscription?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q017",
+        "question": "According to Solstice's report, what is the net revenue retention rate?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q018",
+        "question": "According to Solstice's report, how long is the typical subscription contract?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q019",
+        "question": "According to Solstice's report, how big is the global collaborative and mobile robot market?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q020",
+        "question": "According to Solstice's report, which market segment is growing the fastest?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q021",
+        "question": "Who are Solstice's main rivals?",
+        "hit_rank": null
+      },
+      {
+        "id": "q022",
+        "question": "According to Solstice's report, how many patents does the company hold in total?",
+        "hit_rank": null
+      },
+      {
+        "id": "q023",
+        "question": "What does the TactileSkin sensor do?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q024",
+        "question": "According to Solstice's report, which laboratory works on perception software?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q025",
+        "question": "When did the Monterrey factory start production and what is its capacity?",
+        "hit_rank": 3
+      },
+      {
+        "id": "q026",
+        "question": "According to Solstice's report, how much did motor lead times improve?",
+        "hit_rank": null
+      },
+      {
+        "id": "q027",
+        "question": "According to Solstice's report, what is the biggest remaining supply chain risk?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q028",
+        "question": "According to Solstice's report, what was the voluntary employee attrition rate?",
+        "hit_rank": null
+      },
+      {
+        "id": "q029",
+        "question": "According to Solstice's report, by what year does the company aim to reach net zero emissions?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q030",
+        "question": "How much water does the Monterrey cooling system save each year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q031",
+        "question": "How dependent is Solstice on its biggest customers?",
+        "hit_rank": null
+      },
+      {
+        "id": "q032",
+        "question": "According to Solstice's report, which new EU rule must the company meet by 2027?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q033",
+        "question": "According to Solstice's report, what revenue range does management expect for fiscal 2026?",
+        "hit_rank": 3
+      },
+      {
+        "id": "q034",
+        "question": "When will SentryArm 3 be launched?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q035",
+        "question": "According to Solstice's report, how large is the authorized share buyback?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q036",
+        "question": "According to Solstice's report, who chairs the board of directors?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q037",
+        "question": "According to Solstice's report, who is the Chief Financial Officer?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q038",
+        "question": "According to Solstice's report, how many of the board's directors are independent?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q039",
+        "question": "How many shipments did Harbourline Logistics handle in fiscal 2025?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q040",
+        "question": "Who is Harbourline's Chief Financial Officer?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q041",
+        "question": "What share of Harbourline's revenue comes from its ten largest customers?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q042",
+        "question": "How many electric trucks does Harbourline operate?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q043",
+        "question": "What is Harbourline's net zero target year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q044",
+        "question": "How many licensed beds does Northfield General Hospital have?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q045",
+        "question": "What was Northfield's 30-day readmission rate this year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q046",
+        "question": "When does Northfield's new cardiac wing open?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q047",
+        "question": "How much charity care and community programming did Northfield provide?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q048",
+        "question": "What was the median emergency department wait at Northfield?",
+        "hit_rank": 1
+      }
+    ]
+  },
+  {
+    "strategy": "semantic",
+    "reranked": false,
+    "hit_rate_at_k": {
+      "1": 0.5,
+      "3": 0.6875,
+      "5": 0.7708333333333334
+    },
+    "mrr": 0.607638888888889,
+    "n_questions": 48,
+    "per_question": [
+      {
+        "id": "q001",
+        "question": "What was Solstice's total revenue in fiscal year 2025?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q002",
+        "question": "According to Solstice's report, how many robots did the company ship during the year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q003",
+        "question": "According to Solstice's report, how large is the company's order backlog?",
+        "hit_rank": null
+      },
+      {
+        "id": "q004",
+        "question": "According to Solstice's report, where was the company originally founded?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q005",
+        "question": "When did Solstice go public and at what price?",
+        "hit_rank": null
+      },
+      {
+        "id": "q006",
+        "question": "Why did Solstice relocate its headquarters to Texas?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q007",
+        "question": "According to Solstice's report, what drove the gross margin improvement?",
+        "hit_rank": null
+      },
+      {
+        "id": "q008",
+        "question": "According to Solstice's report, how much cash did the company hold at the end of the year?",
+        "hit_rank": null
+      },
+      {
+        "id": "q009",
+        "question": "How much long-term debt does Solstice carry?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q010",
+        "question": "According to Solstice's report, what was free cash flow for the year?",
+        "hit_rank": 4
+      },
+      {
+        "id": "q011",
+        "question": "According to Solstice's report, what was most of the capital spending used for?",
+        "hit_rank": null
+      },
+      {
+        "id": "q012",
+        "question": "According to Solstice's report, which product harvests fruit using computer vision?",
+        "hit_rank": 4
+      },
+      {
+        "id": "q013",
+        "question": "What share of hardware revenue came from SentryArm?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q014",
+        "question": "How quickly did PathFinder-X sales grow?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q015",
+        "question": "How many farms were using HarvestBot at year end?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q016",
+        "question": "According to Solstice's report, what is the annual recurring revenue from the fleet management subscription?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q017",
+        "question": "According to Solstice's report, what is the net revenue retention rate?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q018",
+        "question": "According to Solstice's report, how long is the typical subscription contract?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q019",
+        "question": "According to Solstice's report, how big is the global collaborative and mobile robot market?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q020",
+        "question": "According to Solstice's report, which market segment is growing the fastest?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q021",
+        "question": "Who are Solstice's main rivals?",
+        "hit_rank": null
+      },
+      {
+        "id": "q022",
+        "question": "According to Solstice's report, how many patents does the company hold in total?",
+        "hit_rank": null
+      },
+      {
+        "id": "q023",
+        "question": "What does the TactileSkin sensor do?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q024",
+        "question": "According to Solstice's report, which laboratory works on perception software?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q025",
+        "question": "When did the Monterrey factory start production and what is its capacity?",
+        "hit_rank": 4
+      },
+      {
+        "id": "q026",
+        "question": "According to Solstice's report, how much did motor lead times improve?",
+        "hit_rank": null
+      },
+      {
+        "id": "q027",
+        "question": "According to Solstice's report, what is the biggest remaining supply chain risk?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q028",
+        "question": "According to Solstice's report, what was the voluntary employee attrition rate?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q029",
+        "question": "According to Solstice's report, by what year does the company aim to reach net zero emissions?",
+        "hit_rank": 4
+      },
+      {
+        "id": "q030",
+        "question": "How much water does the Monterrey cooling system save each year?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q031",
+        "question": "How dependent is Solstice on its biggest customers?",
+        "hit_rank": null
+      },
+      {
+        "id": "q032",
+        "question": "According to Solstice's report, which new EU rule must the company meet by 2027?",
+        "hit_rank": null
+      },
+      {
+        "id": "q033",
+        "question": "According to Solstice's report, what revenue range does management expect for fiscal 2026?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q034",
+        "question": "When will SentryArm 3 be launched?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q035",
+        "question": "According to Solstice's report, how large is the authorized share buyback?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q036",
+        "question": "According to Solstice's report, who chairs the board of directors?",
+        "hit_rank": 3
+      },
+      {
+        "id": "q037",
+        "question": "According to Solstice's report, who is the Chief Financial Officer?",
+        "hit_rank": 3
+      },
+      {
+        "id": "q038",
+        "question": "According to Solstice's report, how many of the board's directors are independent?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q039",
+        "question": "How many shipments did Harbourline Logistics handle in fiscal 2025?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q040",
+        "question": "Who is Harbourline's Chief Financial Officer?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q041",
+        "question": "What share of Harbourline's revenue comes from its ten largest customers?",
+        "hit_rank": null
+      },
+      {
+        "id": "q042",
+        "question": "How many electric trucks does Harbourline operate?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q043",
+        "question": "What is Harbourline's net zero target year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q044",
+        "question": "How many licensed beds does Northfield General Hospital have?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q045",
+        "question": "What was Northfield's 30-day readmission rate this year?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q046",
+        "question": "When does Northfield's new cardiac wing open?",
+        "hit_rank": 2
+      },
+      {
+        "id": "q047",
+        "question": "How much charity care and community programming did Northfield provide?",
+        "hit_rank": 1
+      },
+      {
+        "id": "q048",
+        "question": "What was the median emergency department wait at Northfield?",
+        "hit_rank": 1
+      }
+    ]
+  }
+]

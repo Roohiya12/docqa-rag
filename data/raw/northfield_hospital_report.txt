@@ -1,0 +1,20 @@
+NORTHFIELD GENERAL HOSPITAL - COMMUNITY HEALTH REPORT, FISCAL YEAR 2025
+(Northfield General Hospital is a fictional institution. This document is synthetic sample data created for the DocQA RAG demo.)
+
+1. A MESSAGE FROM THE PRESIDENT
+Northfield General Hospital served more patients in fiscal year 2025 than in any previous year. The hospital operates 420 licensed beds and employs 3,100 clinical and support staff. President Dr. Amara Nwosu said the hospital's priority remains safe, timely care for every resident of the county. The hospital recorded 61,000 emergency department visits during the year.
+
+2. QUALITY AND PATIENT SAFETY
+The 30-day readmission rate fell to 11.2% from 13.0% the year before. Hospital-acquired infection rates dropped by 22% after the introduction of a new hand hygiene and catheter care protocol. The median wait time in the emergency department was 38 minutes. Patient satisfaction reached 88 out of 100 in the annual survey. The nurse-to-patient ratio on general medical floors improved to one nurse for every five patients.
+
+3. NEW FACILITIES AND EQUIPMENT
+The hospital broke ground on a new cardiac wing, which opens in March 2027 and will add 48 beds. The project is budgeted at $38 million and is funded partly by a community donation campaign. Radiology installed two new MRI scanners that cut average scan scheduling time from nine days to three days. A new rooftop helipad was approved by the county aviation board.
+
+4. COMMUNITY BENEFIT
+Northfield provided $17 million in charity care and community programs during the year. The mobile health clinic completed 9,400 free screenings in rural neighborhoods. The hospital also runs a free diabetes prevention class that enrolled 1,250 residents. Volunteers contributed more than 40,000 hours of service.
+
+5. WORKFORCE
+Nurse turnover declined to 12.5% from 16.1%. The hospital funded 140 tuition scholarships for nursing and technician students. A residency program for new nursing graduates was expanded to 85 positions. Staff wellness initiatives include on-site childcare and quiet rooms on every floor.
+
+6. FINANCIAL SUMMARY
+Total operating revenue was $612 million and the operating margin was 3.4%. Cash reserves covered 140 days of operating expenses. The hospital holds an A rating from the principal credit rating agency. The board of trustees has twelve members and is chaired by Judge Marcus Feldman.

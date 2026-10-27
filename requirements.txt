@@ -1,0 +1,8 @@
+chromadb>=0.5
+openai>=1.30
+numpy>=1.26
+python-dotenv>=1.0
+pypdf>=4.0
+streamlit>=1.35
+# Hosted Linux images can ship an old sqlite that ChromaDB rejects; harmless elsewhere (skipped on Windows/macOS).
+pysqlite3-binary; sys_platform == "linux" and python_version < "3.13"
