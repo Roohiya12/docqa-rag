@@ -26,11 +26,14 @@ DEMO_MODE = "1"
 ## 3. What demo mode does
 | Setting | Effect |
 |---|---|
-| `DEMO_MODE = "1"` | Uploads and Rebuild are hidden (the server disk is shared by all visitors); 15 questions per visitor session |
-| `DEMO_MAX_QUESTIONS = "10"` (optional) | Change the per-session cap |
+| `DEMO_MODE = "1"` | 15 questions and 5 indexing runs per visitor session; the Rebuild button is hidden |
+| `DEMO_MAX_QUESTIONS = "10"` (optional) | Change the per-session question cap |
+| `MAX_UPLOAD_CHARS = "150000"` (optional) | Total text allowed per visitor's uploads |
 | `GROQ_CHAT_MODEL` / `GROQ_EMBED_MODEL` (optional) | Override model IDs if Groq renames them |
 
-The hosted disk is temporary: the index is rebuilt automatically after a restart.
+**Uploads work on the public app.** Each visitor's files are parsed and indexed in that visitor's own session memory. They are never written to disk and never visible to other visitors, and they disappear when the session ends.
+
+The hosted disk is temporary: the sample index is rebuilt automatically after a restart.
 
 ## 4. Test it
 - `What was Solstice's total revenue in fiscal year 2025?` -> $482 million with a `[1]` citation

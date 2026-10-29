@@ -28,7 +28,7 @@ def app(tmp_path, embedder, monkeypatch):
 
 def _ask(at, question):
     at.text_input[0].set_value(question)
-    at.button[0].click()  # the form's submit button
+    next(b for b in at.button if b.label == "Ask").click()  # the form's submit button
     return at.run()
 
 
@@ -55,3 +55,18 @@ def test_missing_api_key_shows_error_instead_of_crashing(app, monkeypatch):
     monkeypatch.setattr(config, "GROQ_API_KEY", "")
     at = app.run()
     assert any("GROQ_API_KEY" in e.value for e in at.error)
+
+
+def test_demo_visitor_can_search_their_own_private_upload(app, embedder):
+    from docqa.uploads import build_session_store
+
+    garden = ("The orchard produced 340 kilograms of apples this autumn. " * 12).encode()
+    store, info = build_session_store([("garden.txt", garden)], embedder)
+    app.session_state["my_store"], app.session_state["my_info"] = store, info
+    app.session_state["source_choice"] = "My uploads"
+    at = app.run()
+    assert not at.exception, at.exception
+    at = _ask(at, "How many kilograms of apples?")
+    assert not at.exception, at.exception
+    labels = " ".join(e.label for e in at.expander)
+    assert "garden" in labels and "solstice" not in labels.lower(), labels
